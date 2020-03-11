@@ -48,7 +48,7 @@ I even made the Pokeball move and Blink when hovered by a mouse cursor!
 
 ## Not amused? 
 
-Go and follow my **<a href='https://ko-fi.com/thanos_stantz' target='_blank'>Ko-Fi Page</a>** where I am going to be sharing the thorough walkthroughs of all the crazy shit i do on my free time! 
+Go and follow my **<a href='https://ko-fi.com/thanos_stantz' target='_blank'>Ko-Fi Page</a>** where I am going to be sharing the thorough walkthroughs of all the crazy shit i do in my free time! 
 
 Or Click the button below to go once again to my Ko-Fi Page! But with style! 
 
