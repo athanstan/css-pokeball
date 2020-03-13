@@ -20,7 +20,7 @@ We have never stopped talking about Pokeballs! Get your stuff together!
 
 Ok so here is how my awesome output looks like! 
 
-![Imgur](https://i.imgur.com/gFLba0Y.png) 
+![Imgur](https://i.imgur.com/x0PMVaZ.gif "Animated on Hover pokeball with Css")
 
 That's what i am talking about! 
 
@@ -53,3 +53,6 @@ Go and follow my **<a href='https://ko-fi.com/thanos_stantz' target='_blank'>Ko-
 Or Click the button below to go once again to my Ko-Fi Page! But with style! 
 
 <a href='https://ko-fi.com/G2G31GJ3P' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
+### Updated: https://ko-fi.com/post/Create-Animated-Pokeball-with-CSS-Q5Q61HZ76
